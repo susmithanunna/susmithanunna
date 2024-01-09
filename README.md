@@ -31,7 +31,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
   -->
-  ### :hammer_and_wrench: Languages and Tools :
+  ** :hammer_and_wrench: Languages and Tools :**
   <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/azure/azure-original-wordmark.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
@@ -44,7 +44,8 @@
   ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=susmithanunna)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=susmithanunna" alt="GitHub Streak" /></a>
+
 <!--
 **susmithanunna/susmithanunna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
