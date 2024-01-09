@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="400" height="250"/>
 </div>
@@ -18,6 +18,15 @@
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+  <h1>I am passionate about learning newthings</h1>
+-🔭 I’m currently working on java
+- 🌱 I’m currently learning spring
+<!-- - 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ... -->
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]("https://www.linkedin.com/in/susmitha-radha-devi-nunna-55ab57278/")
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 <!--
 **susmithanunna/susmithanunna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
