@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://i.gifer.com/JXA0.gif" width="400" height="250"/>
+  <img src="C:\Users\susmi\OneDrive\Pictures\JXA0.gif" width="400" height="250"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/susmitha-radha-devi-nunna-55ab57278/">
