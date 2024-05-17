@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" width="400" height="250"/>
+  <img src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" width="450" height="200"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/susmitha-radha-devi-nunna-55ab57278/">
