@@ -22,7 +22,7 @@
   <br>
 -🔭 I’m currently working on java
   <br>
-- 🌱 I’m currently learning spring
+- 🌱 I’m currently learning different test automation tolls
   <br>
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
