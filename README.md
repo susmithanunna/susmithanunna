@@ -37,10 +37,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/azure/azure-original-wordmark.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" **alt="Selenium" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain-wordmark.svg" title="Cucumber" **alt="Cucumber" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" **alt="Jenkins" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="intellij" **alt="intellij" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" **alt="Selenium" width="30" height="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain-wordmark.svg" title="Cucumber" **alt="Cucumber" width="30" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" **alt="Jenkins" width="30" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="intellij" **alt="intellij" width="30" height="40"/>
 </div>
   ---
 
